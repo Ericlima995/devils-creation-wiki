@@ -1,1 +1,52 @@
-# Devils-creation-wiki
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Devil's Creation wiki</title>
+    <link rel="stylesheet" href="Blox.css">
+</head>
+<body>
+    <header><h1>Welcome to the Devil's Creation Wiki</h1></header>
+    <hr>
+    <a href="Suvivors.html">
+        <div>Survivors
+            <img src="imagens/bando dos chapeus de pao corrigido copy.png" alt="PlaceHourder">
+        </div>
+    </a>
+    <a href="Monsters.html">
+        <div>Monsters
+            <img src="imagens/RIBARU copy.EXE.png" alt="PlaceHourder">
+        </div>
+    </a>
+ 
+</div>
+<a href="Maps.html">
+    <div>Maps
+        <img src="imagens/fundo copy.png" alt="PlaceHourder">
+    </div>
+</a>
+<a href="Upcoming.html">
+    <div>Upcoming
+        <img src="imagens/cire copy.png" alt="PlaceHourder">
+    </div>
+</a>
+<a href="Extras.html">
+    <div>Extras
+        <img src="imagens/Dog.png" alt="PlaceHourder">
+    </div>
+</a>
+
+<a href="Sounds.html">
+    <div>Soundtrack
+        <img src="imagens/baconhair copy.png" alt="PlaceHourder">
+    </div>
+</a>
+<a href="Credits.html">
+<div>Credits
+    <img src="imagens/Metal onic.jpg" alt="PlaceHourder">
+</div>
+</a>
+    <footer>website Developed by Berry The bee</footer>
+</body>
+</html>
