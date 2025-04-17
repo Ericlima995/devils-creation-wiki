@@ -17,7 +17,7 @@ main{
      background-color: rgb(12, 26, 88);
      border-radius: 20px;
      box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.216);
-     width: 800px;
+     width: 300px;
      padding: 10px;
      margin:auto;
     size: 20px;
@@ -44,7 +44,7 @@ h1{
   color:rgb(255, 255, 255);
   background-color: rgb(73, 100, 250);
   font-family: "work sans,",sans-serif;
-       font-size: 3em;
+       font-size: 2em;
        font-weight: bolder;
        font-style: italic;
        text-decoration: underline;
@@ -61,7 +61,7 @@ p{
 text-align: justify;
 }
 img{
-  margin-left: 255px;
+  margin-left: auto;
   width: 200px;
   padding: 20px;
 
